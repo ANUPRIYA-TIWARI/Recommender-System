@@ -1,8 +1,7 @@
 #Recommender-System
 My research internship work under Dr. Bidyut Patra, IIT(BHU), Varanasi.
 implemented Research paper based on the Recommender system including algorithms, calculating similarity values between movies to predict ratings and to finding Mean Absolute Error (MAE) for promising results.
-
-🙌 Grateful for Dr. Patra's mentorship and expertise in Recommender Systems.
+Grateful to Dr. Patra for his mentorship and expertise in Recommender Systems.
 This research internship was conducted in machine learning, with a specific focus on recommender systems. Recommender systems play a crucial role in various domains by providing personalized recommendations based on user preferences and historical data. This research internship aimed to explore and develop innovative algorithms and methodologies to generate accurate and effective recommendations using the widely-used Movie Lens dataset.
 Throughout the internship, practical experience was gained in implementing machine learning algorithms. This included data preprocessing, feature engineering, algorithm development, and evaluation techniques. The research process involved problem formulation, experimental design, and result analysis to address the challenges of building effective recommender systems.
 The outcomes of this research internship have the potential to enhance user experiences and improve the quality of recommendations. The findings contribute to the broader field of machine learning and recommender systems, advancing the understanding and development of personalized recommendation technologies.
